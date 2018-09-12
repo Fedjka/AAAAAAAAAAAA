@@ -1,0 +1,22 @@
+﻿Сборка начата 18.05.2018 12:05:18.
+     1>Проект "E:\15-14\15-14\15-14.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\15-14.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         E:\Visual\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\15-14.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "15-14.cpp"
+         15-14.cpp
+       Link:
+         E:\Visual\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\15-14\Debug\15-14.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"E:\15-14\Debug\15-14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\15-14\Debug\15-14.lib" /MACHINE:X86 "Debug\15-14.obj"
+         Debug\stdafx.obj
+         15-14.vcxproj -> E:\15-14\Debug\15-14.exe
+       FinalizeBuildStatus:
+         Файл "Debug\15-14.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\15-14.tlog\15-14.lastbuildstate".
+     1>Сборка проекта "E:\15-14\15-14\15-14.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.17
