@@ -1,2 +1,3 @@
-$var = 'Hello, World!';
+$var = 'Hello, World!'; 
+  $var = 'Hello, World!';
 file_put_content('file.json', json_encode($var));
